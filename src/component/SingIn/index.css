@@ -1,0 +1,31 @@
+.btn2{
+border: 2px solid blueviolet;
+color: blueviolet;
+background-color: white;
+}
+.btn3{
+border: 2px solid red;
+color: red;
+background-color: white;
+
+}
+.footer{
+    width: 100%;
+    height: 40px;
+    margin-top: 40px;
+    border-top: 1px solid grey;
+    padding: 25px;
+}
+.put{
+    background-color: white;
+    border-color: rgb(113, 14, 212);
+    color: rgb(113, 14, 212);
+}
+.ft1{
+    position: relative;
+    top: 21%;
+    left: 17%;
+    font-size: 23px;
+    font-weight: bold;
+    color: #4949e7;
+}

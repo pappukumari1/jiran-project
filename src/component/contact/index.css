@@ -1,0 +1,38 @@
+.h12{
+    font-size: 45px;
+    font-weight: bold;
+}
+.p12{
+    font-size: 19px;
+}
+.bg1{
+    background-color: rgb(245, 241, 241);
+}
+.pd125{
+    padding-top: 60px;
+    padding-bottom: 130px;
+}
+.box123{
+    position: relative;
+    left: 30%;
+    bottom: 50px;
+    background-color: white;
+    box-shadow: 0 0 6px 0px;
+    width: 600px;
+    height: 380px;
+    margin-bottom: 5%;
+}
+.btn12{
+    padding-left: 40%;
+}
+ .bttn1{
+    background-color: rgb(146, 8, 158);
+    color:white; 
+    border: none;
+    
+}
+ .bttn1:hover{
+    background-color: white;
+    border: 1px solid rgb(146, 8, 158);
+    color: rgb(146, 8, 158);
+} 

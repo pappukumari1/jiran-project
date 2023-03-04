@@ -1,0 +1,24 @@
+.box{
+    background: white;
+    cursor: pointer;
+    border-color: rgb(163, 158, 150);
+transition: 1s;
+    }
+    .box:hover {
+        /* background: rgb(163, 158, 150); */
+        cursor: pointer;
+        color: rgb(104, 43, 245);
+
+        border: solid 3px rgb(104, 43, 245);
+    }
+    .hed{
+        /* //fontWeight:'bold',fontSize:'80px' */
+        font-size: 43px;
+        font-weight: bolder;
+        
+    }
+    .redd{
+        color: red;
+    }
+    
+    

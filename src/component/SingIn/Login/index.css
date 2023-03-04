@@ -1,0 +1,29 @@
+.input{
+    border: none;
+    outline: none;
+    border-bottom:1px solid grey ;
+}
+.input:active{
+    border-bottom: 2px solid red;
+}
+.btn1{
+    background-color: rgb(104, 10, 148);
+    color:white;
+    border: none;
+}
+.bg-shadow {
+    box-shadow: 0 0 9px 4px #e5ccf9;
+}
+.icon{
+    position: relative;
+    top: 27px;
+}
+.ty:hover{
+    color: red;
+}
+.icon21{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    top: 42px; 
+}

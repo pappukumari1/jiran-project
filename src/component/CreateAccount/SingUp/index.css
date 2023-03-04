@@ -1,0 +1,7 @@
+.icon22{
+    content: "\f33f";
+    position: relative;
+    display: flex;
+    justify-content: end;
+    top: 40px;
+}

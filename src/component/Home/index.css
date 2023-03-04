@@ -1,0 +1,12 @@
+.btnIn{
+    background-color: #9227ff;
+    font-size: 18px;
+    border-color: #9227ff;
+    color: white;
+  }
+  .btnIn:hover{
+    background-color: white;
+    border-color: #9227ff;
+    color: #9227ff;
+
+  }
